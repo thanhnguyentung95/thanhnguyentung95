@@ -9,7 +9,7 @@
 
 - **Skills:** AI (PyTorch, Tensorflow, DNN), Computer Vision (OpenCV).
 - **Blogger at** [Thanh Nguyen](https://viblo.asia/u/nguyen.tung.thanh)
-- **LinkedIn:** [LinkedIn/thanh-nguyen-7321a2162](https://www.linkedin.com/in/thanh-nguyen-7321a2162/) (Thanh Nguyen).
+- **LinkedIn:** [LinkedIn/thanh-nguyen-ai](https://www.linkedin.com/in/thanh-nguyen-ai/) (Thanh Nguyen).
 
 **Open Source Projects:**
 
