@@ -1,5 +1,5 @@
 
-## 👋 Hi!, I'm Thanh | ML Engineer | AI Researcher.
+## 👋 Hi!, I'm Thanh | AI Engineer | AI Researcher.
 
 > **Build amazing AI products that matter**
 
