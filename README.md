@@ -12,4 +12,3 @@
 - **LinkedIn:** [LinkedIn/thanh-nguyen-ai](https://www.linkedin.com/in/thanh-nguyen-ai/) (Thanh Nguyen).
 
 
-![Thanh's Stats](https://github-readme-stats.vercel.app/api?username=thanhnguyentung95&theme=default&show_icons=true&hide_border=false&count_private=true)
